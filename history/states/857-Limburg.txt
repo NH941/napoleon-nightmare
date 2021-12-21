@@ -1,0 +1,27 @@
+state={
+	id=857
+	name="STATE_857"
+
+	history={
+		owner = FRA
+		add_core_of = HOL
+                add_core_of = FRA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			11562 1 
+		}
+
+	}
+
+	provinces={
+		11562 
+	}
+	manpower=375513
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

@@ -1,0 +1,30 @@
+state={
+	id=838
+	name="STATE_838"
+
+	history={
+		owner = GER
+		victory_points = {
+			11372 3 
+		}
+		buildings = {
+			infrastructure = 3
+			11372 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = GER
+		add_core_of = KSH
+
+	}
+
+	provinces={
+		11316 11343 11372 
+	}
+	manpower=377150
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}
